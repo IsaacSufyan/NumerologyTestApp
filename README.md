@@ -29,7 +29,7 @@
 
 <h3> Example For Understanding </h3>
 
-    <p>
+
 
         So let's say I pick N  = 10
         then  we would have:
@@ -48,15 +48,14 @@
     
         Then make it display a text similar to this one: https://www.numerology.com/articles/about-numerology/single-digit-number-6-meaning/
 
-    </p>
+ 
 
 
 
 <h3> Assumption and Marks</h3>
 
-    <p>
 
         1. We use the FIRST N decimal digits of 'Pi' because Pi has an infinite number of digits, so simply, there isn’t a last digit of pi.
         2. Numerology numbers are 1 to 9 so final number should in between and If get '0' in answer I converted to one.
     
-    </p>
+  
