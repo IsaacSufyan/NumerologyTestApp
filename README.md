@@ -29,33 +29,27 @@
 
 <h3> Example For Understanding </h3>
 
+    So let's say I pick N  = 10
+    then  we would have:
+    7182818284  from e
+    1814666323  from pi
 
+    sum = 8997484607
 
-        So let's say I pick N  = 10
-        then  we would have:
-        7182818284  from e
-        1814666323  from pi
-    
-        sum = 8997484607
-    
-        2 digit primes:  89  97  07   --> a = 3
-        3 digit primes:  997  607    --> b = 2
-    
-        a * b = 6
-    
-        No need to make it denser
-        So the final number is 6
-    
-        Then make it display a text similar to this one: https://www.numerology.com/articles/about-numerology/single-digit-number-6-meaning/
+    2 digit primes:  89  97  07   --> a = 3
+    3 digit primes:  997  607    --> b = 2
 
- 
+    a * b = 6
 
+    No need to make it denser
+    So the final number is 6
+
+    Then make it display a text similar to this one: https://www.numerology.com/articles/about-numerology/single-digit-number-6-meaning/
 
 
 <h3> Assumption and Marks</h3>
 
-
-        1. We use the FIRST N decimal digits of 'Pi' because Pi has an infinite number of digits, so simply, there isn’t a last digit of pi.
-        2. Numerology numbers are 1 to 9 so final number should in between and If get '0' in answer I converted to one.
+ * We use the FIRST N decimal digits of 'Pi' because Pi has an infinite number of digits, so simply, there isn’t a last digit of pi.
+ * Numerology numbers are 1 to 9 so final number should in between and If get '0' in answer I converted to one.
     
   
